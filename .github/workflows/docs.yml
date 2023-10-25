@@ -1,5 +1,8 @@
 name: Docs
 
+permissions:
+  contents: write
+
 on:
   pull_request:
     branches:
